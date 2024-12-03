@@ -1,0 +1,8 @@
+path: /SLIIT/Research/Dataset 2
+train: images/train
+val: images/train
+
+names:
+  0: Husk_Qualified
+  1: Husk_Accepted
+  2: Husk_Disqualified
