@@ -18,7 +18,7 @@ print(f"Initial CPU Usage: {initial_cpu:.2f}%")
 start_time = time.time()
 
 # Test the model on a single image
-results = model.predict(source="/SLIIT/Research/Test/test2.jpg", save=True, imgsz=640)
+results = model.predict(source="/SLIIT/Research/Test/test3.jpg", save=True, imgsz=640)
 
 # End tracking inference time
 end_time = time.time()
